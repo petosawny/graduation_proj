@@ -1,0 +1,16 @@
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="24"
+    height="24" viewBox="0 0 24 24">
+    <defs>
+        <style>.a,.c{fill:#777;}.a{stroke:#707070;}.b{clip-path:url(#a);}</style>
+        <clipPath id="a">
+            <rect class="a" width="24" height="24" transform="translate(223 757)" />
+        </clipPath>
+    </defs>
+    <g class="b" transform="translate(-223 -757)">
+        <g transform="translate(223 757)">
+            <path class="c" d="M23.121,9.879a3,3,0,1,1-4.243,0,3,3,0,0,1,4.243,0" />
+            <path class="c" d="M14.121,9.879a3,3,0,1,1-4.243,0,3,3,0,0,1,4.243,0" />
+            <path class="c" d="M5.121,9.879a3,3,0,1,1-4.243,0,3,3,0,0,1,4.243,0" />
+        </g>
+    </g>
+</svg>
